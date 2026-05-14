@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @skyscanner4u
+/src/backend/database.py      @skyscanner4u
+/src/backend/routers/auth.py  @skyscanner4u
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @skyscanner4u
